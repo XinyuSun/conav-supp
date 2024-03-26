@@ -76,3 +76,44 @@ Distribution of navigation trajectory length and episode length in the CoNav dat
 This figure showcases the diversity in trajectory lengths and episode lengths. These trajectories include activities with both long and short horizons, providing a more comprehensive reflection of the agent's ability to recognize human intentions and assist in task completion.
 
 ![](figs/distribution.png)
+
+## 2. Humanoid Animation Results
+
+<!-- ### 2.1 a person cleans brushes at the sink -->
+
+<figure style="display: inline-block; width: 50%">
+  <img src="figs/a_person_cleans_brushes_at_the_sink.png" width="100%" />
+  <figcaption>a person cleans brushes at the sink</figcaption>
+</figure>
+<figure style="display: inline-block; width: 50%">
+  <img src="figs/a_person_exercises_on_the_treadmill.png" width="100%" />
+  <figcaption>a person exercises on the treadmill</figcaption>
+</figure>
+
+<figure style="display: inline-block; width: 50%">
+  <img src="figs/a_person_picks_up_a_toothbrush_from_the_sink.png" width="100%" />
+  <figcaption>a person picks up a toothbrush from the sink</figcaption>
+</figure>
+
+<figure style="display: inline-block; width: 50%">
+  <img src="figs/a_person_takes_a_water_bottle_from_the_table.png" width="100%" />
+  <figcaption>a person takes a water bottle from the table</figcaption>
+</figure>
+
+<figure style="display: inline-block; width: 50%">
+  <img src="figs/a_person_takes_books_from_the_shelves.png" width="100%" />
+  <figcaption>a person takes books from the shelves</figcaption>
+</figure>
+
+<!-- ### 2.2 a person cleans brushes at the sink
+![](figs/a_person_exercises_on_the_treadmill.png)
+
+### 2.3 a person cleans brushes at the sink
+![](figs/a_person_picks_up_a_toothbrush_from_the_sink.png)
+
+### 2.4 a person cleans brushes at the sink
+![](figs/a_person_takes_a_water_bottle_from_the_table.png)
+
+### 2.5 a person cleans brushes at the sink
+![](figs/a_person_takes_books_from_the_shelves.png) -->
+
