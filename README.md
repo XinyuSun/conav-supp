@@ -126,16 +126,16 @@ This figure showcases the diversity in trajectory lengths and episode lengths. T
 
 <table style="width: 100%; text-align: center;">
   <tr>
-    <td style="width: 33%; padding: 0 0%;">
+    <td style="width: 30%; padding: 0 0%;">
       <img src="figs/a_person_cleans_brushes_at_the_sink.png" style="width: 100%;">
       <p>A person cleans brushes at the sink.</p>
     </td>
-    <td style="width: 33%; padding: 0 0%;">
-      <img src="figs/a_person_exercises_on_the_treadmill.png" style="width: 99%;">
+    <td style="width: 30%; padding: 0 0%;">
+      <img src="figs/a_person_exercises_on_the_treadmill.png" style="width: 100%;">
       <p>A person exercises on the treadmill.</p>
     </td>
-    <td style="width: 33%; padding: 0 0%;">
-      <img src="figs/a_person_picks_up_a_toothbrush_from_the_sink.png" style="width: 97%;">
+    <td style="width: 30%; padding: 0 0%;">
+      <img src="figs/a_person_picks_up_a_toothbrush_from_the_sink.png" style="width: 100%;">
       <p>A person picks up toothbrush from the sink.</p>
     </td>
   </tr>
@@ -143,15 +143,15 @@ This figure showcases the diversity in trajectory lengths and episode lengths. T
 
 <table style="width: 100%; text-align: center;">
   <tr>
-    <td style="width: 33%; padding: 0 0%;">
+    <td style="width: 30%; padding: 0 0%;">
       <img src="figs/a_person_takes_a_water_bottle_from_the_table.png" style="width: 100%;">
       <p>A person takes a bottle from the table.</p>
     </td>
-    <td style="width: 33%; padding: 0 0%;">
+    <td style="width: 30%; padding: 0 0%;">
       <img src="figs/a_person_takes_books_from_the_shelves.png" style="width: 100%;">
       <p>A person takes books from the shelves.</p>
     </td>
-    <td style="width: 33%; padding: 0 0%;">
+    <td style="width: 30%; padding: 0 0%;">
       <img src="figs/a_person_dresses_in_front_of_the_mirror.png" style="width: 100%;">
       <p>A person dresses in front of the mirror.</p>
     </td>
@@ -160,17 +160,17 @@ This figure showcases the diversity in trajectory lengths and episode lengths. T
 
 <table style="width: 100%; text-align: center;">
   <tr>
-    <td style="width: 33%; padding: 0 0%;">
+    <td style="width: 30%; padding: 0 0%;">
       <img src="figs/a_person_gardens_near_the_potted_plant.png" style="width: 100%;">
       <p>A person gardens near the potted plant.</p>
     </td>
-    <td style="width: 33%; padding: 0 0%;">
+    <td style="width: 30%; padding: 0 0%;">
       <img src="figs/a_person_showers_in_the_shower.png" style="width: 100%;">
       <p>A person showers in the shower.</p>
     </td>
-    <td style="width: 33%; padding: 0 0%;">
-      <img src="figs/a person picks out clothes from the wardrobe.png" style="width: 98%;">
-      <p>A person picks out clothes from wardrobe.</p>
+    <td style="width: 30%; padding: 0 0%;">
+      <img src="figs/a person picks out clothes from the wardrobe.png" style="width: 100%;">
+      <p>A person picks out clothes from the wardrobe.</p>
     </td>
   </tr>
 </table>
