@@ -131,11 +131,11 @@ This figure showcases the diversity in trajectory lengths and episode lengths. T
       <p>A person cleans brushes at the sink.</p>
     </td>
     <td style="width: 30%; padding: 0 0%;">
-      <img src="figs/a_person_exercises_on_the_treadmill.png" style="width: 99%;">
+      <img src="figs/a_person_exercises_on_the_treadmill.png" style="width: 98%;">
       <p>A person exercises on the treadmill.</p>
     </td>
     <td style="width: 30%; padding: 0 0%;">
-      <img src="figs/a_person_picks_up_a_toothbrush_from_the_sink.png" style="width: 98%;">
+      <img src="figs/a_person_picks_up_a_toothbrush_from_the_sink.png" style="width: 97%;">
       <p>A person picks up toothbrush from the sink.</p>
     </td>
   </tr>
@@ -169,7 +169,7 @@ This figure showcases the diversity in trajectory lengths and episode lengths. T
       <p>A person leisurely showers in the shower.</p>
     </td>
     <td style="width: 30%; padding: 0 0%;">
-      <img src="figs/a person picks out clothes from the wardrobe.png" style="width: 98%;">
+      <img src="figs/a person picks out clothes from the wardrobe.png" style="width: 96%;">
       <p>A person picks out clothes from the wardrobe.</p>
     </td>
   </tr>
