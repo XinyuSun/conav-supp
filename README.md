@@ -8,13 +8,13 @@ There are *41 destination object* in our dataset, which is parsed from HSSD data
 
 #### (a) train split
 
-Bar chart depicting the count of *destination objects* in the training set
+<!-- Bar chart depicting the count of *destination objects* in the training set -->
 
 ![](figs/destination_object_bar_chart_train.png)
 
 #### (b) test split
 
-Bar chart depicting the count of *destination objects* in the test set
+<!-- Bar chart depicting the count of *destination objects* in the test set -->
 
 ![](figs/destination_object_bar_chart_test.png)
 
@@ -24,13 +24,13 @@ There are *40 objects in activities* within our dataset, which is parsed from LL
 
 #### (a) train split
 
-Bar chart depicting the count of *objects in activities* within the training set
+<!-- Bar chart depicting the count of *objects in activities* within the training set -->
 
 ![](figs/grasp_object_bar_chart_train.png)
 
 #### (b) test split
 
-Bar chart depicting the count of *objects in activities* within the test set
+<!-- Bar chart depicting the count of *objects in activities* within the test set -->
 
 ![](figs/grasp_object_bar_chart_test.png)
 
@@ -40,13 +40,13 @@ Bar chart depicting the count of *objects in activities* within the test set
 
 #### (a) train split
 
-Bar chart depicting the count of *action* within the training set
+<!-- Bar chart depicting the count of *action* within the training set -->
 
 ![](figs/action_bar_chart_train.png)
 
 #### (b) test split
 
-Bar chart depicting the count of *action* within the test set
+<!-- Bar chart depicting the count of *action* within the test set -->
 
 ![](figs/action_bar_chart_test.png)
 
@@ -56,15 +56,15 @@ There are *108 intentions* in our dataset, which is the second-stage activity an
 
 #### (a) train split
 
-Bar chart depicting the count of *intention* within the training set
+<!-- Bar chart depicting the count of *intention* within the training set -->
 
-![](figs/action_bar_chart_train.png)
+![](figs/intention_bar_chart_train.png)
 
 #### (b) test split
 
-Bar chart depicting the count of *intention* within the test set
+<!-- Bar chart depicting the count of *intention* within the test set -->
 
-![](figs/action_bar_chart_test.png)
+![](figs/intention_bar_chart_test.png)
 
 ### 1.5 Distribution of navigation trajectory length and episode length
 
@@ -116,4 +116,3 @@ This figure showcases the diversity in trajectory lengths and episode lengths. T
 
 ### 2.5 a person cleans brushes at the sink
 ![](figs/a_person_takes_books_from_the_shelves.png) -->
-
