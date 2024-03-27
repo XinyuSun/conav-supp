@@ -166,7 +166,7 @@ This figure showcases the diversity in trajectory lengths and episode lengths. T
     </td>
     <td style="width: 30%; padding: 0 0%;">
       <img src="figs/a_person_showers_in_the_shower.png" style="width: 100%;">
-      <p>A person showers in the shower.</p>
+      <p>A person leisurely showers in the shower.</p>
     </td>
     <td style="width: 30%; padding: 0 0%;">
       <img src="figs/a person picks out clothes from the wardrobe.png" style="width: 100%;">
