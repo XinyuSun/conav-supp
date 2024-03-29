@@ -8,7 +8,7 @@ We organize our supplementary material as follows:
 - In Section [D](#jump-D), we provide the statistics of human activities.
 - In Section [E](#jump-E), we demonstrate the distribution of navigation trajectory lengths and episode steps.
 - In Section [F](#jump-F), we provide more qualitative results of generated humanoid animations.
-- In Section [G](#jump-F), we provide more qualitative results of agent navigation.
+- In Section [G](#jump-G), we provide more qualitative results of agent navigation.
 
 <!-- ## 1. Statistics of CoNav Dataset -->
 ### A. Statistics of Destination Objects
@@ -222,7 +222,7 @@ This figure showcases the diversity in trajectory lengths and episode steps. The
 
 
 ## G. Qualitative Results of Navigation Agents
-<span id="jump-F"></span>
+<span id="jump-G"></span>
 
 ### G-1. Failure Cases of the Pioneer Agent
 
