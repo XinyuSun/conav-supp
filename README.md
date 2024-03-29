@@ -98,51 +98,6 @@ This figure showcases the diversity in trajectory lengths and episode steps. The
 ## F. Qualitive Results of Humanoid Animation
 <span id="jump-F"></span>
 
-<!-- <div style="text-align: center;">
-  <div style="display: inline-block; width: 30%; margin: 0 1%;">
-    <img src="figs/a_person_cleans_brushes_at_the_sink.png" style="width: 100%;">
-    <p>A person cleans brushes at the sink.</p>
-  </div>
-  <div style="display: inline-block; width: 30%; margin: 0 1%;">
-    <img src="figs/a_person_exercises_on_the_treadmill.png" style="width: 100%;">
-    <p>A person exercises on the treadmill.</p>
-  </div>
-  <div style="display: inline-block; width: 30%; margin: 0 1%;">
-    <img src="figs/a_person_picks_up_a_toothbrush_from_the_sink.png" style="width: 100%;">
-    <p>A person picks up a toothbrush from the sink.</p>
-  </div>
-</div>
-
-<div style="text-align: center;">
-  <div style="display: inline-block; width: 30%; margin: 0 1%;">
-    <img src="figs/a_person_takes_a_water_bottle_from_the_table.png" style="width: 100%;">
-    <p>A person takes a water bottle from the table.</p>
-  </div>
-  <div style="display: inline-block; width: 30%; margin: 0 1%;">
-    <img src="figs/a_person_takes_books_from_the_shelves.png" style="width: 100%;">
-    <p>A person takes books from the shelves.</p>
-  </div>
-  <div style="display: inline-block; width: 30%; margin: 0 1%;">
-    <img src="figs/a_person_dresses_in_front_of_the_mirror.png" style="width: 100%;">
-    <p>A person dresses in front of the mirror.</p>
-  </div>
-</div>
-
-<div style="text-align: center;">
-  <div style="display: inline-block; width: 30%; margin: 0 1%;">
-    <img src="figs/a_person_gardens_near_the_potted_plant.png" style="width: 100%;">
-    <p>A person gardens near the potted plant.</p>
-  </div>
-  <div style="display: inline-block; width: 30%; margin: 0 1%;">
-    <img src="figs/a_person_showers_in_the_shower.png" style="width: 100%;">
-    <p>A person showers in the shower.</p>
-  </div>
-  <div style="display: inline-block; width: 30%; margin: 0 1%;">
-    <img src="figs/a person picks out clothes from the wardrobe.png" style="width: 100%;">
-    <p>A person picks out clothes from the wardrobe.</p>
-  </div>
-</div> -->
-
 <table style="width: 100%; text-align: center;">
   <tr>
     <td style="width: 30%; padding: 0 0%;">
@@ -194,4 +149,30 @@ This figure showcases the diversity in trajectory lengths and episode steps. The
   </tr>
 </table>
 
+### Complete Action Display
+<p align="center">
+  <img src="figs/a_person_takes_a_water_bottle_from_the_table_a_person_hydrates_on_the_treadmill_2.jpg"  width="80%"/>
+  <br>
+  A person takes a water bottle from the table.
+  <br>
+  A person hydrates on the treadmill.
+  <br>
+</p>
 
+<p align="center">
+  <img src="figs/a_person_grabs_gardening_tools_from_the_table_a_person_gardens_near_the_potted_plant.png"  width="80%"/>
+  <br>
+  A person grabs gardening tools from the table.
+  <br>
+  A person gardens near the potted plant.
+  <br>
+</p>
+
+<p align="center">
+  <img src="figs/a_person_takes_a_broom_from_the_cabinet_a_person_cleans_the_carpet_2.jpg"  width="80%"/>
+  <br>
+  A person takes a broom.
+  <br>
+  A person cleans the carpet.
+  <br>
+</p>
