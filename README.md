@@ -96,7 +96,7 @@ This figure showcases the diversity in trajectory lengths and episode steps. The
 
 ![](figs/distribution.png)
 
-## F. Qualitive Results of Humanoid Animation
+## F. Qualitative Results of Humanoid Animation
 <span id="jump-F"></span>
 
 <!-- <div style="text-align: center;">
@@ -196,7 +196,7 @@ This figure showcases the diversity in trajectory lengths and episode steps. The
   </tr>
 </table>
 
-### Complete Action Display
+### Whole Trajectory with two Generated Activities.
 <p align="center">
   <img src="figs/a_person_takes_a_water_bottle_from_the_table_a_person_hydrates_on_the_treadmill.png"  width="70%"/>
   <br>
@@ -220,12 +220,12 @@ This figure showcases the diversity in trajectory lengths and episode steps. The
 
 
 
-## G. Visualization Results for Navigation
+## G. Qualitative Results of Navigation Agents
 <span id="jump-F"></span>
 
-### G-1. Failure Cases of Pioneer Agent
+### G-1. Failure Cases of the Pioneer Agent
 
-#### (a) conflicts with human actions, leading to collisions
+#### (a) Case1: Conflicts with human actions, leading to collisions
 <table style="width: 100%; text-align: center;">
   <tr>
     <td style="width: 50%; padding: 0 0%;">
@@ -239,7 +239,7 @@ This figure showcases the diversity in trajectory lengths and episode steps. The
   </tr>
 </table>
 
-#### (b) heuristic algorithm occasionally plans waypoints that are not navigable, making the agent stuck
+#### (b) Case2: The heuristic algorithm occasionally plans waypoints that are not navigable, making the agent stuck
 
 <table style="width: 100%; text-align: center;">
   <tr>
@@ -254,5 +254,5 @@ This figure showcases the diversity in trajectory lengths and episode steps. The
   </tr>
 </table>
 
-### G-2. Visulize of Vanilla Agent
+### G-2. Additional Qualitative Results of the Vanilla Agent
 ![](figs/vanilla.png)
