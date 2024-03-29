@@ -202,13 +202,13 @@ This figure showcases the diversity in trajectory lengths and episode steps. The
 
 ### G-1. Failure Cases of Pioneer Agent
 
-<!-- conflicts with human actions, leading to collisions -->
+#### (a) conflicts with human actions, leading to collisions
 
 ![](figs/pioneer_agent_collision_1.png)
 
 ![](figs/pioneer_agent_collision_2.png)
 
-<!-- heuristic algorithm occasionally plans waypoints that are not navigable, making the agent stuck -->
+#### (b) heuristic algorithm occasionally plans waypoints that are not navigable, making the agent stuck
 
 ![](figs/pioneer_agent_stuck_1.png)
 
