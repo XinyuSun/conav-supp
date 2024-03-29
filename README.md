@@ -241,3 +241,6 @@ This figure showcases the diversity in trajectory lengths and episode steps. The
 ![](figs/pioneer_agent_stuck_1.png)
 
 ![](figs/pioneer_agent_stuck_2.png)
+
+### G-2. Failure Cases of Vanilla Agent
+![](figs/vanilla.png)
