@@ -259,4 +259,9 @@ This figure showcases the diversity in trajectory lengths and episode steps. The
 
 We provide another successful case where the agent explores the environment from steps 0 to 300 since it can not predict a high-confidence intended destination. At time step 266, the agent starts to turn around and face the correct direction as it observes that the human is walking toward the window.
 
-![](figs/vanilla.png)
+<p align="center">
+  <img src="figs/Vanilla.jpg"  width="70%"/>
+  <br>
+  <strong>A  person retrieves a laptop from the table.  ➔  A person works near the window.</strong>
+  <br>
+</p>
