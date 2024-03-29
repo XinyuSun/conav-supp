@@ -212,7 +212,7 @@ This figure showcases the diversity in trajectory lengths and episode steps. The
 </p>
 
 <p align="center">
-  <img src="figs/a person takes a broom_a person cleans the carpet_1.png"  width="70%"/>
+  <img src="figs/a person takes a broom from the cabinet_a person cleans the carpet_1.png"  width="70%"/>
   <br>
   <strong>A person takes a broom.  ➔  A person cleans the carpet.</strong>
   <br>
