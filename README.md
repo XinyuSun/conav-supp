@@ -99,6 +99,7 @@ This figure showcases the diversity in trajectory lengths and episode steps. The
 <span id="jump-F"></span>
 
 <!-- <div style="text-align: center;">
+
   <div style="display: inline-block; width: 30%; margin: 0 1%;">
     <img src="figs/a_person_cleans_brushes_at_the_sink.png" style="width: 100%;">
     <p>A person cleans brushes at the sink.</p>
@@ -195,3 +196,20 @@ This figure showcases the diversity in trajectory lengths and episode steps. The
 </table>
 
 
+
+## G. Visualization Results for Navigation
+<span id="jump-F"></span>
+
+### G-1. Failure Cases of Pioneer Agent
+
+<!-- conflicts with human actions, leading to collisions -->
+
+![](figs/pioneer_agent_collision_1.png)
+
+![](figs/pioneer_agent_collision_2.png)
+
+<!-- heuristic algorithm occasionally plans waypoints that are not navigable, making the agent stuck -->
+
+![](figs/pioneer_agent_stuck_1.png)
+
+![](figs/pioneer_agent_stuck_2.png)
