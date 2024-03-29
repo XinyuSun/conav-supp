@@ -231,16 +231,33 @@ This figure showcases the diversity in trajectory lengths and episode steps. The
 ### G-1. Failure Cases of Pioneer Agent
 
 #### (a) conflicts with human actions, leading to collisions
-
-![](figs/pioneer_agent_collision_1.png)
-
-![](figs/pioneer_agent_collision_2.png)
+<table style="width: 100%; text-align: center;">
+  <tr>
+    <td style="width: 50%; padding: 0 0%;">
+      <img src="figs/pioneer_agent_collision_1.png" style="width: 100%;">
+      <p>A person opens the curtain->A person brews coffee in the coffee_maker</p>
+    </td>
+    <td style="width: 50%; padding: 0 0%;">
+      <img src="figs/pioneer_agent_collision_2.png" style="width: 100%;">
+      <p>A person grabs gardening tools from the cabinet->A person gardens near the potted_plant</p>
+    </td>
+  </tr>
+</table>
 
 #### (b) heuristic algorithm occasionally plans waypoints that are not navigable, making the agent stuck
 
-![](figs/pioneer_agent_stuck_1.png)
+<table style="width: 100%; text-align: center;">
+  <tr>
+    <td style="width: 50%; padding: 0 0%;">
+      <img src="figs/pioneer_agent_stuck_1.png" style="width: 100%;">
+      <p>A person grabs gardening tools from the cabinet->a person gardens near the potted_plant'</p>
+    </td>
+    <td style="width: 50%; padding: 0 0%;">
+      <img src="figs/pioneer_agent_stuck_2.png" style="width: 100%;">
+      <p>A person picks out an outfit from the clothing->A person checks their appearance in the mirror</p>
+    </td>
+  </tr>
+</table>
 
-![](figs/pioneer_agent_stuck_2.png)
-
-### G-2. Failure Cases of Vanilla Agent
+### G-2. Visulize of Vanilla Agent
 ![](figs/vanilla.png)
