@@ -8,6 +8,7 @@ We organize our supplementary material as follows:
 - In Section [D](#jump-D), we provide the statistics of human activities.
 - In Section [E](#jump-E), we demonstrate the distribution of navigation trajectory lengths and episode steps.
 - In Section [F](#jump-F), we provide more qualitative results of generated humanoid animations.
+- In Section [G](#jump-F), we provide more qualitative results of agent navigation.
 
 <!-- ## 1. Statistics of CoNav Dataset -->
 ### A. Statistics of Destination Objects
@@ -98,6 +99,52 @@ This figure showcases the diversity in trajectory lengths and episode steps. The
 ## F. Qualitive Results of Humanoid Animation
 <span id="jump-F"></span>
 
+<!-- <div style="text-align: center;">
+
+  <div style="display: inline-block; width: 30%; margin: 0 1%;">
+    <img src="figs/a_person_cleans_brushes_at_the_sink.png" style="width: 100%;">
+    <p>A person cleans brushes at the sink.</p>
+  </div>
+  <div style="display: inline-block; width: 30%; margin: 0 1%;">
+    <img src="figs/a_person_exercises_on_the_treadmill.png" style="width: 100%;">
+    <p>A person exercises on the treadmill.</p>
+  </div>
+  <div style="display: inline-block; width: 30%; margin: 0 1%;">
+    <img src="figs/a_person_picks_up_a_toothbrush_from_the_sink.png" style="width: 100%;">
+    <p>A person picks up a toothbrush from the sink.</p>
+  </div>
+</div>
+
+<div style="text-align: center;">
+  <div style="display: inline-block; width: 30%; margin: 0 1%;">
+    <img src="figs/a_person_takes_a_water_bottle_from_the_table.png" style="width: 100%;">
+    <p>A person takes a water bottle from the table.</p>
+  </div>
+  <div style="display: inline-block; width: 30%; margin: 0 1%;">
+    <img src="figs/a_person_takes_books_from_the_shelves.png" style="width: 100%;">
+    <p>A person takes books from the shelves.</p>
+  </div>
+  <div style="display: inline-block; width: 30%; margin: 0 1%;">
+    <img src="figs/a_person_dresses_in_front_of_the_mirror.png" style="width: 100%;">
+    <p>A person dresses in front of the mirror.</p>
+  </div>
+</div>
+
+<div style="text-align: center;">
+  <div style="display: inline-block; width: 30%; margin: 0 1%;">
+    <img src="figs/a_person_gardens_near_the_potted_plant.png" style="width: 100%;">
+    <p>A person gardens near the potted plant.</p>
+  </div>
+  <div style="display: inline-block; width: 30%; margin: 0 1%;">
+    <img src="figs/a_person_showers_in_the_shower.png" style="width: 100%;">
+    <p>A person showers in the shower.</p>
+  </div>
+  <div style="display: inline-block; width: 30%; margin: 0 1%;">
+    <img src="figs/a person picks out clothes from the wardrobe.png" style="width: 100%;">
+    <p>A person picks out clothes from the wardrobe.</p>
+  </div>
+</div> -->
+
 <table style="width: 100%; text-align: center;">
   <tr>
     <td style="width: 30%; padding: 0 0%;">
@@ -176,3 +223,21 @@ This figure showcases the diversity in trajectory lengths and episode steps. The
   A person cleans the carpet.
   <br>
 </p>
+
+
+## G. Visualization Results for Navigation
+<span id="jump-F"></span>
+
+### G-1. Failure Cases of Pioneer Agent
+
+#### (a) conflicts with human actions, leading to collisions
+
+![](figs/pioneer_agent_collision_1.png)
+
+![](figs/pioneer_agent_collision_2.png)
+
+#### (b) heuristic algorithm occasionally plans waypoints that are not navigable, making the agent stuck
+
+![](figs/pioneer_agent_stuck_1.png)
+
+![](figs/pioneer_agent_stuck_2.png)
