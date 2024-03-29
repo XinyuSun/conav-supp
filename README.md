@@ -145,6 +145,7 @@ This figure showcases the diversity in trajectory lengths and episode steps. The
   </div>
 </div> -->
 
+### F-1. Synthesized Humanoid Animations
 <table style="width: 100%; text-align: center;">
   <tr>
     <td style="width: 30%; padding: 0 0%;">
@@ -196,7 +197,7 @@ This figure showcases the diversity in trajectory lengths and episode steps. The
   </tr>
 </table>
 
-### Whole Trajectory with two Generated Activities.
+### F-2 Whole Trajectory with 2 Generated Activities.
 <p align="center">
   <img src="figs/a_person_takes_a_water_bottle_from_the_table_a_person_hydrates_on_the_treadmill.png"  width="70%"/>
   <br>
