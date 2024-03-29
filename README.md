@@ -198,7 +198,7 @@ This figure showcases the diversity in trajectory lengths and episode steps. The
 
 ### Complete Action Display
 <p align="center">
-  <img src="figs/a_person_takes_a_water_bottle_from_the_table_a_person_hydrates_on_the_treadmill_2.jpg"  width="80%"/>
+  <img src="figs/a_person_takes_a_water_bottle_from_the_table_a_person_hydrates_on_the_treadmill.png"  width="100%"/>
   <br>
   A person takes a water bottle from the table.
   <br>
@@ -207,7 +207,7 @@ This figure showcases the diversity in trajectory lengths and episode steps. The
 </p>
 
 <p align="center">
-  <img src="figs/a_person_grabs_gardening_tools_from_the_table_a_person_gardens_near_the_potted_plant.png"  width="80%"/>
+  <img src="figs/a_person_grabs_gardening_tools_from_the_cabinet_a_person_gardens_near_the_potted_plant.png"  width="100%"/>
   <br>
   A person grabs gardening tools from the table.
   <br>
@@ -216,7 +216,7 @@ This figure showcases the diversity in trajectory lengths and episode steps. The
 </p>
 
 <p align="center">
-  <img src="figs/a_person_takes_a_broom_from_the_cabinet_a_person_cleans_the_carpet_2.jpg"  width="80%"/>
+  <img src="figs/a person takes a broom from the cabinet_a person cleans the carpet_1.png"  width="100%"/>
   <br>
   A person takes a broom.
   <br>
